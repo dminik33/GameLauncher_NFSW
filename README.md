@@ -1,4 +1,4 @@
-# GameLauncher_NFSW ![Build Status](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/workflows/GameLauncher%20Reborn%20Build/badge.svg)
+# SBRW.Launcher ![Build Status](https://github.com/SoapboxRaceWorld/GameLauncher_NFSW/workflows/Stable%20Development%20Build/badge.svg)
 A Rewrite of GameLauncher taken from Need For Speed: World
 
 ## Features
@@ -11,6 +11,10 @@ A Rewrite of GameLauncher taken from Need For Speed: World
 - [X] Self-Signed Code Sign Certificate
 
 ### Screenshot
-![](screenshot.png)
-![](screenshot2.png)
-![](screenshot3.png)
+![](01-Main_Screen.png)
+![](02-Add_Server.png)
+![](03-Security_Center.png)
+![](04-Settings_Screen.png)
+![](05-CDN_Picker.png)
+![](06-Verify_Hash.png)
+![](07-User_Settings.png)
